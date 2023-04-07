@@ -1,0 +1,13 @@
+body {
+    background-color: pink;
+}
+
+canvas{
+    position: relative;
+    margin-top: 50px;
+    background-color: rgb(126, 62, 72);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
